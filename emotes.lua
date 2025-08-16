@@ -1643,7 +1643,6 @@ addEmote("Slickback", 103789826265487, 39, "Aug 08, 2025")
 
 
 
-
 --wait for emotes to finish loading
 
 
