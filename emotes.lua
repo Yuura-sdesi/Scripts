@@ -1451,7 +1451,6 @@ addEmote("MOSH", 118307905798773, 39, "Aug 08, 2025")
 addEmote("Go Mufasa", 94118707925458, 39, "Aug 08, 2025")
 addEmote("rolling crybaby", 130726889233022, 39, "Aug 08, 2025")
 addEmote("I should have quit while I was a head (body gone)", 82844871544945, 39, "Aug 08, 2025")
-addEmote("Mr "ant" Tenna's Kick - Deltarune", 71912700800803, 39, "Aug 08, 2025")
 addEmote("MONSTER MASH", 100532972764499, 39, "Aug 08, 2025")
 addEmote("Jojo Polnareff Pose", 131131933847410, 39, "Aug 08, 2025")
 addEmote("SIUU", 137282858118997, 39, "Aug 08, 2025")
@@ -1632,6 +1631,7 @@ addEmote("Nya Anime Dance", 126647057611522, 39, "Aug 08, 2025")
 addEmote("Do that thang", 113772829398170, 39, "Aug 08, 2025")
 addEmote("Squat?", 95441477641149, 39, "Aug 08, 2025")
 addEmote("Slickback", 103789826265487, 39, "Aug 08, 2025")
+
 
 
 
