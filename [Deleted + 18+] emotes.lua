@@ -1451,7 +1451,7 @@ addEmote("MOSH", 118307905798773, 39, "Aug 08, 2025")
 addEmote("Go Mufasa", 94118707925458, 39, "Aug 08, 2025")
 addEmote("rolling crybaby", 130726889233022, 39, "Aug 08, 2025")
 addEmote("I should have quit while I was a head (body gone)", 82844871544945, 39, "Aug 08, 2025")
-addEmote("Mr "ant" Tenna's Kick - Deltarune", 71912700800803, 39, "Aug 08, 2025")
+addEmote("Mr Tenna's Kick - Deltarune", 71912700800803, 39, "Aug 08, 2025")
 addEmote("MONSTER MASH", 100532972764499, 39, "Aug 08, 2025")
 addEmote("Jojo Polnareff Pose", 131131933847410, 39, "Aug 08, 2025")
 addEmote("SIUU", 137282858118997, 39, "Aug 08, 2025")
@@ -1587,6 +1587,7 @@ addEmote("UGC", 78074267827823, 39, "Aug 09, 2025")
 addEmote("Minecraft Communication", 112338832985837, 39, "Aug 09, 2025")
 addEmote("Soda Pop", 132718205548925, 39, "Aug 10, 2025")
 addEmote("Best Mates", 73271793399763, 39, "Aug 10, 2025")
+addEmote("Basketball Head", 107282826166809, 39, "Aug 10, 2025")
 addEmote("Jojo Boat Dance", 107811626356387, 39, "Aug 10, 2025")
 addEmote("Jojo Killer Queen Pose", 134619896000792, 39, "Aug 10, 2025")
 addEmote("Jotaro Pose Jojo", 104522303245209, 39, "Aug 10, 2025")
@@ -1627,6 +1628,9 @@ addEmote("Macarena", 91274761264433, 39, "Aug 08, 2025")
 addEmote("Helicopter2", 119431985170060, 39, "Aug 08, 2025")
 addEmote("RONALDO", 97547486465713, 39, "Aug 08, 2025")
 
+addEmote("hip sway", 80963950541052, 39, "Aug 12, 2025")
+addEmote("Metro Man Arm Swings", 136271269847411, 39, "Aug 27, 2025")
+
 
 
 addEmote("Nya Anime Dance", 126647057611522, 39, "Aug 08, 2025")
@@ -1636,6 +1640,11 @@ addEmote("Slickback", 103789826265487, 39, "Aug 08, 2025")
 
 addEmote("DARE - Gorillaz", 88840501982686, 39, "Sep 01, 2025")
 addEmote("Micheal Myers Emote", 92176214594041, 39, "Sep 01, 2025")
+addEmote("Demon Slayer Douma Sit", 96606489351695, 39, "Sep 1, 2025")
+addEmote("Shake it - In a circle!", 86221080031988, 39, "Sep 11, 2025")
+addEmote("Zero Two", 109066780934851, 39, "Sep 12, 2025")
+addEmote("SHAKE THAT THANG", 74308052301228, 39, "Sep 24, 2025")
+addEmote("Jigsaw emote", 101358566209195, 39, "Sep 28, 2025")
 
 
 
