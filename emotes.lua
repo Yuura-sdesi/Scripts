@@ -1684,11 +1684,28 @@ addEmote("SHAKE THAT THANG", 74308052301228, 39, "Sep 24, 2025")
 addEmote("Jigsaw emote", 101358566209195, 39, "Sep 28, 2025")
 
 addEmote("Pocoyo Dance", 76727264948158, 39, "Nov 07, 2025")
-
-
-
-
-
+addEmote("Hear Me Now", 133307355099075, 39, "Oct 04, 2025")
+addEmote("💀MM2 Fake Dead - 3", 79297779614324, 39, "Aug 15, 2025")
+addEmote("67 Human", 120007956256550, 39, "Oct 14, 2025")
+addEmote("INVISIBLE only working one on the market", 72608704092688, 39, "Aug 17, 2025")
+addEmote("dwerk", 115226023725437, 39, "Oct 17, 2025")
+addEmote("💩MEGA POOPING 💩 [AURA] 😂", 106880906271071, 39, "Sep 14, 2025")
+addEmote("Zero Two Dance V2", 95385842020103, 39, "Aug 11, 2025")
+addEmote("Invisible (Glitch Under)", 83522304666655, 39, "Aug 21, 2025")
+addEmote("Wall Phase (GLITCH)", 121340313680008, 39, "Dec 04, 2025")
+addEmote("wall worm dance [18+]", 83725251794104, 39, "Dec 10, 2025")
+addEmote("Cute Bouncy Needy Shake Dance", 70434485915160, 39, "Dec 18, 2025")
+addEmote("🐻 FNAF Foxy Animatronic Jumpscare 🦊", 114701433631329, 39, "Aug 22, 2025")
+addEmote("Needy Stretch", 130329103860361, 39, "Dec 09, 2025")
+addEmote("stretch like this? [13+]", 126017588998166, 39, "Dec 15, 2025")
+addEmote("Ya Ya Ying Dance", 115777223962514, 39, "Dec 16, 2025")
+addEmote("Will has power!!! STRANGER THINGS 5", 93772541546815, 39, "Dec 12, 2025")
+addEmote("Pangya Dance🎀", 89439360145889, 39, "Nov 07, 2025")
+addEmote("PangYa Dance 3.0", 95926267112611, 39, "Sep 22, 2025")
+addEmote("Fever - Fakemink (Come Fluffy Like a Bunny) 💞", 78882870074960, 39, "Nov 17, 2025")
+addEmote("Fling emote V2", 123929740439299, 39, "Dec 10, 2025")
+addEmote("Happy Hula", 113863828896103, 39, "Oct 26, 2025")
+addEmote("Scary tall creature transformation", 93875137466223, 39, "Nov 02, 2025")
 
 
 
