@@ -1,4 +1,4 @@
-9--- Keybind to open for pc is "comma" -> " , "
+--- Keybind to open for pc is "comma" -> " , "
 
 -- Made by Gi#7331
 
