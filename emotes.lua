@@ -1,4 +1,4 @@
---- Keybind to open for pc is "comma" -> " , "
+9--- Keybind to open for pc is "comma" -> " , "
 
 -- Made by Gi#7331
 
@@ -1706,6 +1706,12 @@ addEmote("Fever - Fakemink (Come Fluffy Like a Bunny) 💞", 78882870074960, 39,
 addEmote("Fling emote V2", 123929740439299, 39, "Dec 10, 2025")
 addEmote("Happy Hula", 113863828896103, 39, "Oct 26, 2025")
 addEmote("Scary tall creature transformation", 93875137466223, 39, "Nov 02, 2025")
+addEmote("Biblically Accurate Emote", 118314972618293 39, "Sep 01, 2025")
+addEmote("Endless Worm Floating", 93296121617273, 39, "Jan 23, 2026")
+addEmote("Strutting fashion catwalk", 96086661098597, 39, "Aug 13, 2025")
+addEmote("Phibz", 95386318624540, 39, "Mar 15, 2026")
+addEmote("Yuji Jump Setalcix", 137252149656176, 39, "Mar 19, 2026")
+addEmote("Phibz Emote", 125544839577106, 39, "Mar 13, 2026")
 
 
 
